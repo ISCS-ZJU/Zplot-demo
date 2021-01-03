@@ -1,0 +1,6 @@
+# Series      Static_compression_operator Static_compression_compute_or_transfer
+MAX2	11.9438	26.388
+MAX3	6.8607	10.9102
+MAX4	7.847222222	12.5
+ReLU7	7.035277778	11.6635
+ReLU8	6.982722222	11.5689
