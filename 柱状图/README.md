@@ -46,4 +46,8 @@
 
 <img src="https://github.com/ISCS-GitLab/Zplot-demo/blob/main/%E6%9F%B1%E7%8A%B6%E5%9B%BE/%E6%9F%B1%E7%8A%B6%E5%9B%BE7/bar-7.png" width="50%" height="50%">
 
+- [Bar-8](https://github.com/ISCS-GitLab/Zplot-demo/tree/main/%E6%9F%B1%E7%8A%B6%E5%9B%BE/%E6%9F%B1%E7%8A%B6%E5%9B%BE8)
+
+<img src="https://github.com/ISCS-GitLab/Zplot-demo/blob/main/%E6%9F%B1%E7%8A%B6%E5%9B%BE/%E6%9F%B1%E7%8A%B6%E5%9B%BE8/bar-8.png" width="50%" height="50%">
+
 
